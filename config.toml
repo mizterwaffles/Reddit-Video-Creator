@@ -1,18 +1,18 @@
 [Directory]
 # absolute path to where this project is cloned or downloaded
-path='C:\Users\nhill_mliw72r\Documents\Code_Projects> '
+path=''
 # ----------------------------------------------------------
 [Background]
 # absolute path to the background video e.g: Desktop/minecraft.mp4
-path='C:\Users\nhill_mliw72r\Documents\Code_Projects\Minecraft.mp4'
+path=''
 
 # ----------------------------------------------------------
 [RedditCredential]
-client_id='5eSatr1X4a9klH0fGwKVzg'
-client_secret='ovtxzoc4T4LiYSTsIDOaJvVNyDZhgQ'
-user_agent='SRD Scraping'
-username='Glittering_Let1087'
-passkey='Jmnza@04'
+client_id=''
+client_secret=''
+user_agent=''
+username=''
+passkey=''
 # ----------------------------------------------------------
 [YoutubeCredential]
 client_id=''
